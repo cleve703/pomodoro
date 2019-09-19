@@ -11,10 +11,10 @@ var sessionMinusButton = document.getElementById('session-minus');
 var breakPlusButton = document.getElementById('break-plus');
 var breakMinusButton = document.getElementById('break-minus');
 
-var sessionTimeSet = 5;
+var sessionTimeSet = 1500;
 var sessionTimeLock;
 var sessionCountdown;
-var breakTimeSet = 3;
+var breakTimeSet = 300;
 var breakTimeLock;
 var breakCountdown;
 var sessionStatus = "Session";
